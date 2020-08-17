@@ -1,4 +1,4 @@
-package edu.tdd.demo.controller;
+package edu.tdd.demo.ut.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import edu.tdd.demo.domain.SaleRecord;

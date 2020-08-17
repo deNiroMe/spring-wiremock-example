@@ -1,7 +1,8 @@
-package edu.tdd.demo.service;
+package edu.tdd.demo.ut.service;
 
 import com.github.tomakehurst.wiremock.WireMockServer;
 import edu.tdd.demo.domain.SupplyRecord;
+import edu.tdd.demo.service.SupplyService;
 import org.junit.jupiter.api.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
